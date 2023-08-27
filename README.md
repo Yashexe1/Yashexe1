@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashexe1
-- 👀 I’m interested in Web Develpment...
-- 🌱 I’m currently learning CSS...
+- 👀 I’m interested in Web Develpment
+- 🌱 I’m currently learning Web Development
 - 📫 Connect with me on twitter: https://twitter.com/speed01x
 
 <!---
